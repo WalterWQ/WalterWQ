@@ -14,7 +14,7 @@
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/CarterMo">
-    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <a href="https://github.com/WalterWQ/WalterWQ" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
